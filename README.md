@@ -7,7 +7,7 @@ Selamat datang di repository website portofolio pribadi saya. Proyek ini dibangu
 ---
 
 ### 🖼️ Tampilan Website
-![Screenshot Portofolio]([https://raw.githubusercontent.com/BernardusBima/web-portfolio-bernardus-bima/main/images/Banner.png])
+![Screenshot Portofolio]([https://raw.githubusercontent.com/BernardusBima/web-portfolio-bernardus-bima/main/images/dashboard.png])
 
 ---
 
