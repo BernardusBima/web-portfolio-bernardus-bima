@@ -2,12 +2,12 @@
 
 Selamat datang di repository website portofolio pribadi saya. Proyek ini dibangun dari nol untuk menampilkan keahlian saya dalam frontend web development, dengan spesialisasi pada pembuatan Website Company Profile dan Landing Page yang modern dan interaktif.
 
-[![Live Demo](https://img.shields.io/badge/Lihat%20Live-Demo-brightgreen?style=for-the-badge&logo=netlify)]([https://bernardusbimaporto.netlify.app/])
+[![Live Demo](https://img.shields.io/badge/Lihat%20Live-Demo-brightgreen?style=for-the-badge&logo=netlify)](https://bernardusbimaporto.netlify.app/)
 
 ---
 
 ### 🖼️ Tampilan Website
-![Screenshot Portofolio]([https://raw.githubusercontent.com/BernardusBima/web-portfolio-bernardus-bima/main/images/dashboard.png])
+![Screenshot Portofolio](https://raw.githubusercontent.com/BernardusBima/web-portfolio-bernardus-bima/main/images/dashboard.png)
 
 ---
 
