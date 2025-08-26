@@ -27,7 +27,6 @@ Website ini dilengkapi dengan berbagai fitur modern untuk memberikan pengalaman 
 -   **CSS3** (Flexbox, Grid, Custom Properties, Animations)
 -   **JavaScript (Vanilla JS)**
 -   **Font Awesome** (untuk ikon)
--   **Netlify** (untuk hosting & deployment)
 
 ---
 
